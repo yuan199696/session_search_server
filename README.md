@@ -1,6 +1,9 @@
 # OpenClaw 会话搜索
 
 一个用于搜索和管理 [OpenClaw](https://github.com/openclaw/openclaw) AI 助手会话的 Web 工具。
+<img width="1920" height="912" alt="Snipaste_2026-03-10_15-36-56" src="https://github.com/user-attachments/assets/b342e2d3-b018-4caa-8cad-6a45c70d9029" />
+<img width="1920" height="912" alt="Snipaste_2026-03-10_15-38-51" src="https://github.com/user-attachments/assets/42d84213-9c25-4f30-8865-8ceea92b2f51" />
+
 
 ## 功能
 
